@@ -12,3 +12,8 @@ docs/
 
 # Dotenv file
 .env
+
+#Solium etc
+.soliumrc.json
+.soliumignore
+.solhint.json
